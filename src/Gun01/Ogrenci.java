@@ -11,5 +11,7 @@ public class Ogrenci {
         System.out.println("merhaba 4");
 
         System.out.println("ders");
+
+        System.out.println("javaaaa");
     }
 }
